@@ -1,4 +1,4 @@
-mod 'TestModule',
+mod 'Testmodule',
   :git => "git@github.wellsfargo.com:wf-forge/puppet-avamar.git",
   :ref => '11.0.1'
 mod 'avamar',
